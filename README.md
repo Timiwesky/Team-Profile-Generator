@@ -21,6 +21,7 @@ This application was created to generate a team profile based on user input usin
 
 ## Screenshot
 
+<img width="1142" alt="Screenshot 2024-01-24 at 12 18 52 AM" src="https://github.com/Timiwesky/Team-Profile-Generator/assets/115565053/c8aae7ab-e42d-4de7-bf64-6e12233445ba">
 
 
 ## Credits
