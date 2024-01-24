@@ -26,6 +26,6 @@ This application was created to generate a team profile based on user input usin
 
 ## Credits
 
-Tests run using <a href="https://www.npmjs.com/package/jest"></a>
+Tests run using <a href= "https://www.npmjs.com/package/jest">Jest package</a>
 <br>
-Input collected using <a href="https://www.npmjs.com/package/inquirer"></a>
+Input collected using <a href= "https://www.npmjs.com/package/inquirer">Inquirer</a>
