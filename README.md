@@ -2,7 +2,7 @@
 
 ## Description
 
-This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page with a style sheet. 
+This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page with a style sheet.
 
 ## Installation
 
@@ -26,12 +26,6 @@ This application was created to generate a team profile based on user input usin
 
 ## Credits
 
-<<<<<<< HEAD
 Tests run using <a href= "https://www.npmjs.com/package/jest">Jest package</a>
 <br>
 Input collected using <a href= "https://www.npmjs.com/package/inquirer">Inquirer</a>
-=======
-Tests run using <a href="https://www.npmjs.com/package/jest">Jest package</a>
-<br>
-Input collected using <a href="https://www.npmjs.com/package/inquirer">Inquirer</a>
->>>>>>> 0715e52 (readme file updated)
